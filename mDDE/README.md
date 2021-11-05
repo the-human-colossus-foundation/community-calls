@@ -12,7 +12,7 @@ No blockchain fulfills all those requirements and some none at all. And this is 
 ## Meeting details
 
 Every Friday: 21:00 CEST, 15:00 EDT, 12:00 PDT, 4:00 JST, 00:30 IST, UTC 20:00
-[Add invite to your google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mzc5bDQ3ZGtiaWhkZm43dWlxYW9ocXRqa2YgY19tMjdjdjAwMmpncjdubjhzcHY1ZW43aTViZ0Bn&tmsrc=c_m27cv002jgr7nn8spv5en7i5bg%40group.calendar.google.com)
+[Add invite to your google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mzc5bDQ3ZGtiaWhkZm43dWlxYW9ocXRqa2ZfMjAyMTExMDVUMjAwMDAwWiBjX20yN2N2MDAyamdyN25uOHNwdjVlbjdpNWJnQGc&tmsrc=c_m27cv002jgr7nn8spv5en7i5bg%40group.calendar.google.com&scp=ALL)
 
 Zoom meeting:
 
