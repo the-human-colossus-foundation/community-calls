@@ -17,8 +17,6 @@ Every Thursday: 21:00 CEST, 15:00 EDT, 12:00 PDT, 4:00 JST, 00:30 IST, UTC 20:00
 
 Zoom meeting:
 
-Robert Mitwicki is inviting you to a scheduled Zoom meeting.
-
 Join Zoom Meeting
 https://us02web.zoom.us/j/85830970493?pwd=aE9sdTUvRTY1VnIxSk5EVEM3VHlhdz09
 
